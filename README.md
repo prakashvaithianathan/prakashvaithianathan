@@ -6,7 +6,7 @@
 
 
  <p align="center">
-<img src="https://img.shields.io/badge/Age-23-blue" />
+<img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" />
@@ -55,7 +55,7 @@
 <p align="center">
   <div class="profile">
  <h1>Professional Profile</h1>
- <p>I'm Prakash, a <strong>full-stack and Web3 developer</strong> from <strong>India</strong>. As a <strong>passionate self-learner</strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <strong>Web Developer</strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">, I'm <strong>obsessed</strong> with creating <strong>web apps</strong> and excel at finding innovative solutions hidden within complex problems.</p>
+ <p>I'm Prakash, a <strong>Senior Software Engineer</strong> from <strong>India</strong>. As a <strong>passionate self-learner</strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <strong>software engineer</strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">, I'm <strong>obsessed</strong> with creating <strong>web apps</strong>, <strong>applications</strong>, <strong>Blockchain</strong>, <strong>AI & ML</strong>, <strong>Devops</strong>, <strong>Cloud</strong> and excel at finding innovative solutions hidden within complex problems.</p>
  
  <h2>Technical Expertise</h2>
  <ul>
@@ -77,7 +77,7 @@
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently working as a full-stack and Web3 developer<br>
 ✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source full-stack projects**<br>
+✔ I’m looking to collaborate with any **Open - Source software projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
@@ -104,13 +104,15 @@
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"> </code>
  
  
-  <hr>
+  <!-- <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
 <p><img align="left" src="https://i.ibb.co/9Ty0XSB/github-stats.jpg" alt="prakash" width='400'/></p>
 <p>&nbsp; <img align="right" src="https://i.ibb.co/FxWLp7T/most-used-language.jpg" alt="prakash" width="400" /></p>
 <br><br><br><br><br><br><br><br>
+
+-->
 
 <hr>
 
