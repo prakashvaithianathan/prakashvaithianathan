@@ -7,13 +7,13 @@
 
  <p align="center">
 <img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Prakash </h1>
-<h3 align="center">Full-stack Developer | Blockchain Developer | Web3 Developer | Web Designer | AI </h3>
+<h3 align="center">Full-stack | Blockchain | Web3 | AI | Applications | Devops | Web Design | Cloud </h3>
 <p align="center">
 <!-- <a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/prakash-vaithinathan-8484a3154/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  &nbsp;&nbsp;&nbsp;
