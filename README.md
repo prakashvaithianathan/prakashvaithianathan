@@ -13,14 +13,14 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Prakash </h1>
-<h3 align="center">Full-stack Developer|Blockchain Developer|Web3 Developer | Web Designer | Coder </h3>
+<h3 align="center">Full-stack Developer | Blockchain Developer | Web3 Developer | Web Designer | AI </h3>
 <p align="center">
 <!-- <a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/prakash-vaithinathan-8484a3154/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  &nbsp;&nbsp;&nbsp;
 <!-- <a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/prakashsparkz/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100072068212829" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
- <a href = "mailto: prakashsparkzofficial@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+ <a href = "mailto: indupraka18@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -52,35 +52,20 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">
-  <em>
-    Hello, I am Prakash a <b>full-stack and Web3 developer</b> from<b>India</b>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>web apps</b> and always looking to find solutions of which are hidden in the problem 
-  </em> 
+  <div class="profile">
+ <h1>Professional Profile</h1>
+ <p>I'm Prakash, a <strong>full-stack and Web3 developer</strong> from <strong>India</strong>. As a <strong>passionate self-learner</strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <strong>Web Developer</strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">, I'm <strong>obsessed</strong> with creating <strong>web apps</strong> and excel at finding innovative solutions hidden within complex problems.</p>
+ 
+ <h2>Technical Expertise</h2>
+ <ul>
+   <li>Artificial Intelligence</li>
+   <li>Blockchain development</li>
+   <li>Application and web development</li>
+   <li>Server-side architecture</li>
+   <li>Cloud infrastructure</li>
+ </ul>
+</div>
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
